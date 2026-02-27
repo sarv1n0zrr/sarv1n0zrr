@@ -1,4 +1,4 @@
-## Hi there, I'm Sarvinoz 👋 | Flutter Developer | Mobile App Enthusiast | Tech Explorer
+## Hi there, I'm Sarvinoz 👋 | Flutter Developer 
 
 Welcome to my GitHub profile! I'm Sarvinoz, a Flutter developer dedicated to building intuitive, efficient, and scalable mobile applications. I love to explore new technologies and innovate in the mobile development space.
 
